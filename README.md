@@ -1,4 +1,4 @@
-# SRoc:Combination of Sentence-Level and Term-Level Weights
+# SRoc: Combination of Sentence-Level and Term-Level Weights
 
 >A Probabilistic Framework for Integrating Sentence-level Semantics via BERT into Pseudo-relevance Feedback<br/>
 a probabilistic framework that incorporates sentence-level semantics via Bidirectional Encoder Representations from Transformers (BERT) into PRF.
